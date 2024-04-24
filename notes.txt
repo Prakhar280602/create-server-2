@@ -1,3 +1,8 @@
 //install express from terminal
 
 run command:- npm i --save express 
+
+
+//routing->controls -js
+//views-> views -ejs
+//Database-> Models -mongodb
